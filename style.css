@@ -86,7 +86,15 @@
 .article{
     grid-area: 'content';
 }
+
 .trending{
     grid-area: 'trending';
+}
+
+.git--practice--commits{
+    background-color: #800080;
+    margin: 2rem;
+    border: 1px solid #000000;
+    border-radius: 0px 2px 2px 0px
 }
 
