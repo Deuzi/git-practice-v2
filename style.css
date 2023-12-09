@@ -98,3 +98,11 @@
     border-radius: 0px 2px 2px 0px
 }
 
+.first-article{
+    background-color: #853c6c;
+    font-size: 1rem;
+    font-family: bold;
+}
+.first-article span{
+    text-decoration: line-through;
+} 
